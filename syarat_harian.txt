@@ -1,4 +1,4 @@
-LINK_YOUTUBE: https://youtu.be/QU0ay4XRC6U?si=3mWMa_y8BlAwfwjI
+LINK_YOUTUBE: https://youtu.be/j5sp87tPhDY?si=hF02qYlxJq2E_rnq
 DURASI_MINIMAL: 20
 DURASI_MAKSIMAL: 55
 TOPIK_DICARI: Momen paling menarik, edukatif, atau punchline lucu sesuai campaign.
